@@ -15,7 +15,8 @@
  
   
 
-  ![leandro1027 GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro1027&theme=dark&show_icons=true?v=1)
+  !https://github-readme-stats.vercel.app/api?username=leandro1027&theme=dark&show_icons=true&include_all_commits=true&count_private=true
+
 
   
   
