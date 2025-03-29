@@ -1,3 +1,10 @@
+
+
+
+
+
+
+You said:
 ## Olá, eu sou o Leandro, seja bem vindo ao meu perfil
 
 
@@ -15,8 +22,7 @@
  
   
 
-  !https://github-readme-stats.vercel.app/api?username=leandro1027&theme=dark&show_icons=true&include_all_commits=true&count_private=true
-
+  ![leandro1027 GitHub stats](https://github-readme-stats.vercel.app/api?username=leandro1027&theme=dark&show_icons=true?v=1)
 
   
   
@@ -34,4 +40,4 @@
   <a href = "mailto:leandrobalaban78@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leandro-balaban-822958283/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div> 
+</div>  
