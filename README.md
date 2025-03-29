@@ -10,10 +10,10 @@ You said:
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Javinha" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg">
-  <img align="center" alt="Spring" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg">
-  <img align="center" alt="MySql" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">
-  <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg">
+  <img align="center" alt="Javinha" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg">
+  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg">
+  <img align="center" alt="MySql" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg">
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg">
 </div>
   
   ##
