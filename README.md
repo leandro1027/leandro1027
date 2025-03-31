@@ -1,10 +1,3 @@
-
-
-
-
-
-
-You said:
 ## Olá, eu sou o Leandro, seja bem vindo ao meu perfil
 
 
